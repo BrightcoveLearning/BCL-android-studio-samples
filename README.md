@@ -1,4 +1,4 @@
-BCL-Android-Studio-Sample
+BCL-android-studio-samples
 =========================
 
-Samples for Android Studio 
+Samples for Android Studio. 
